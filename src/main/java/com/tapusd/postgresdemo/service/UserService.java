@@ -1,7 +1,6 @@
 package com.tapusd.postgresdemo.service;
 
 
-import com.tapusd.postgresdemo.domain.Post;
 import com.tapusd.postgresdemo.dto.response.PostDTO;
 import com.tapusd.postgresdemo.dto.response.UserDTO;
 
