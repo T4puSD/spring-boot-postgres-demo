@@ -22,7 +22,7 @@ public class UserServiceImpl implements UserService {
 
     @Override
     public List<UserDTO> getUsers() {
-        return userRepository.getDTOS();
+        return userRepository.findAllDTO();
     }
 
     @Override
